@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head lang="ja">
+<link rel="stylesheet" href="sty.css" type="text/css">    
+<meta http-equiv="Content-Type"
+                  content="text/html; charset=UTF-8"/>
+<title> 
+バナナ
+</title>
+<style>
+  body {color:rgb(150,200,100);}
+  body  { font-size: 50px;}
+</style>
+</head>
+<body>
+<h1>自己紹介</h1>
+<dl>
+  <dt>名前</dt><dd>七瀬 胡桃 の彼氏</dd>
+  <dt>学年</dt><dd>留年しそう</dd>
+  <dt>好きな食べ物</dt><dd>君の膵臓</dd>
+  <dt>将来の夢</dt><dd>胡桃の夫</dd>
+</dl>
+<h2>推し</h2>
+<p>将来の結婚相手です。</p>
+<img src="IMG_0730.jpeg" alt="メンヘラちゃん" width="20%" height="20%">    
+<table border="1">
+</body>
